@@ -89,7 +89,7 @@ export const config: VendureConfig = {
             },
         }),
         AdminUiPlugin.init({
-            route: '',
+            route: 'admin',
             port: 3002,
         }),
     ],
